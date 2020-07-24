@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Portfolio e-Motivo Store`,
-    description: `Portfolio de e-Motivo 2020m con un plus adicional, un store donde podrás encontrar camisetas!`,
+    description: `Las mejores camisetas personalizadas las podrás encontrar aquí!`,
     author: `@blurdesigner`,
   },
   plugins: [

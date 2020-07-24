@@ -18,7 +18,9 @@ const Layout = ({ children }) => (
     <Content>
       <main>{children}</main>
       <Footer>
-        con ❤️ por
+        <span role="img" aria-label="emoji">
+          con ❤️ por
+        </span>
         <a href="https://www.blur.dev">Blur</a>
       </Footer>
     </Content>
