@@ -1,0 +1,47 @@
+commit 3cf8cc46f1d2b61f25e5912e2ef6fba4bc585802
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sun Jul 26 17:38:37 2020 -0500
+
+    plugins de transformacion
+
+commit 6f31b6cfe35562db1e24e096dc752ecfd54f6d80
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sun Jul 26 11:04:25 2020 -0500
+
+    cambio de fonts
+
+commit 07178ca9980d8b29b6dad3bc2daaea1647fe9e0b
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sat Jul 25 20:03:06 2020 -0500
+
+    Instalacion y conf de plugins
+
+commit e9675b7a354e1c9833c7f202e7df4dba9ebb5829
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Jul 24 22:13:22 2020 -0500
+
+    cambios de textos de los mensajes
+
+commit 24806410463b5bebfdc9e4d2129c5d97b5926651
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Jul 24 16:56:04 2020 -0500
+
+    consultas en GraphQL desde React
+
+commit 786136ee97e454ef0544026a4081512a4dff6361
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Fri Jul 24 16:11:53 2020 -0500
+
+    Layout en Gatsby
+
+commit f25d732d0e860fed57c52bc60b2b9699a879b801
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Jul 23 17:39:50 2020 -0500
+
+    Router en Gatsby y componente Link
+
+commit 8e28d64f5e07fa03fd823d3455f10a1a6a589d54
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Jul 23 16:42:36 2020 -0500
+
+    Configurado Gatsby
