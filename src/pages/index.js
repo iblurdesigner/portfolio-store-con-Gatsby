@@ -14,11 +14,11 @@ export const query = graphql`
         }
       }
     }
-    allStripePrice {
+    allStripeSku: allStripePrice {
       edges {
         node {
           id
-          unit_amount
+          price: unit_amount
           product {
             name
             metadata {
@@ -34,14 +34,13 @@ export const query = graphql`
 `
 
 const IndexPage = ({ data }) => {
-  console.log(data)
   return (
     <>
       <SEO title="Home" />
       <Jumbo
         description={data.allSite.edges[0].node.siteMetadata.description}
       />
-      <Products products={data.allStripePrice.edges} />
+      <Products products={data.allStripeSku.edges} />
     </>
   )
 }
