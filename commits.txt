@@ -1,3 +1,9 @@
+commit 582eba234977c38425fbbbaa9d4a6a5855002fa3
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sat Sep 5 17:55:59 2020 -0500
+
+    Gatsby build para compilar nuestro proyecto
+
 commit a675825ccbb9a69ee8bae25a34125cf9437dd612
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Sat Sep 5 17:20:38 2020 -0500
