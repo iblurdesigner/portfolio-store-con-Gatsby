@@ -30,7 +30,7 @@ export default function Cart() {
         price: sku,
         quantity,
       })),
-      mode: "payment",
+      mode: "subscription",
       successUrl: process.env.SUCCESS_REDIRECT,
       cancelUrl: process.env.CANCEL_REDIRECT,
     })
