@@ -1,3 +1,69 @@
+commit a675825ccbb9a69ee8bae25a34125cf9437dd612
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sat Sep 5 17:20:38 2020 -0500
+
+    boton comprar arreglado
+
+commit c9a4f890c4d24f47bed185c3478347f6088c1787
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sat Sep 5 17:03:51 2020 -0500
+
+    error: el boto de comprar no funciona...
+
+commit 0ce1218b9598cfbf73438ecbea24a892aca7ca0d
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Aug 17 18:30:48 2020 -0500
+
+    useStaticQuery
+
+commit 467ecd7354d68d544c729a1ecf550fbc0c692fcb
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Aug 17 17:43:38 2020 -0500
+
+    Terminando la vista de Detalle del producto
+
+commit a9524499537d6f9e3e05b51766c6e19040436a64
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Aug 13 17:00:23 2020 -0500
+
+    Manejo de Gatsby Templates
+
+commit f082d60d414cf44f7978983b6eb7454369ffc0d0
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Aug 13 15:58:25 2020 -0500
+
+    Creando paginas en funcion de los datos
+
+commit ccadd37760129231a4cfe2fbaf3fe85253400c63
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Aug 13 15:27:45 2020 -0500
+
+    subiendo archivos faltantes Products y commits
+
+commit 427bac5535dd95d943606014325f7e4e561fe9e9
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Aug 13 15:21:33 2020 -0500
+
+    Productos en react
+
+commit 954e89e06793412ef6e24e928b2e1c16f31ada81
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Thu Aug 13 10:04:10 2020 -0500
+
+    Agregando productos a la tienda en linea
+
+commit 3e823c627df23eca490f0fee712690c7f1b20996
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Jul 27 23:58:13 2020 -0500
+
+    Estilos Globales con styled-components
+
+commit 3bd3cb25c89335da14021106acc989f284133935
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Sun Jul 26 18:23:10 2020 -0500
+
+    estilizando con styled-components
+
 commit 3cf8cc46f1d2b61f25e5912e2ef6fba4bc585802
 Author: iblurdesigner <nevomen@gmail.com>
 Date:   Sun Jul 26 17:38:37 2020 -0500
